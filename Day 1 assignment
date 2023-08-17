@@ -1,5 +1,5 @@
 // Hello world program
-#include <stdio.h>  // Header file which includes the predefined i/o functin 
+#include <stdio.h>  // Header file which includes the predefined i/o functions
 int main()  // Starting point of the program 
 {
   printf("Hello World");  // Print Hello World 
