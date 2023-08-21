@@ -180,3 +180,46 @@ scanf("%d",&num);
 printf (" The absolute value of the given number is : %d\n",abs(num));
 return 0;
 }
+
+Pa
+#include<stdio.h>
+int main()
+{
+  char ar='-4';
+  printf("%c", ar);  // special character is obtained
+  return 0;
+}
+
+Pb
+#include<stdio.h>
+int main()
+{
+  unsigned char ar='-5';
+  printf("%c", ar);  // special character is obtained 
+  return 0;
+}
+
+Pc
+#include<stdio.h>
+int main()
+{
+  int a;
+  printf("Enter a no.\n");
+  scanf("%d", &a);
+  printf("no. entered is %d\n", a);
+  printf("octal number is %o\n", a) ;
+  printf("hexadecimal of the no. is %x\n", a);
+  return 0;
+}
+
+Pd
+#include<stdio.h>
+int main()
+{
+  int a;
+  printf("Enter value \n");
+  scanf("%i", &a);
+  printf("no. entered is %i\n", a);
+  printf("no. entered is %d\n", a);
+  return 0;
+}
