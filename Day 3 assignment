@@ -61,8 +61,6 @@ printf("%c",mych);
 return 0;
 }
 
-p26
-#include
 
 p(e)
 #include<stdio.h>
