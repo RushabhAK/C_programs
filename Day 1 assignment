@@ -6,10 +6,6 @@ int main()  // Starting point of the program
   return 0;
 }
 
-
-
-
-
 // program to print a sentence
 #include <stdio.h>
 int main()
