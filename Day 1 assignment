@@ -7,6 +7,8 @@ int main()  // Starting point of the program
 }
 
 
+pushed
+
 // program to print a sentence
 #include <stdio.h>
 int main()
